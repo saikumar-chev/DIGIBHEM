@@ -18,11 +18,12 @@ This project is a simple yet functional stopwatch web application developed as p
 - **CSS**: For styling the application and making it visually appealing.
 - **JavaScript**: For implementing the core stopwatch functionality.
 
-## Installation
+## Usage
 
-To run this stopwatch web application locally:
+- **Start**: Click the "**Start**" button to begin the stopwatch.
+- **Stop**: Click the "**Stop**" button to pause the timer.
+- **Reset**: Click the "**Reset**" button to reset the timer to zero.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/stopwatch-web-application.git
-
+├── index.html         # The main HTML file
+├── styles.css         # The CSS file for styling
+└── script.js          # The JavaScript file for stopwatch functionality
