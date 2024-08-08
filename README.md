@@ -1,15 +1,28 @@
 # DIGIBHEM
-## Stopwatch Web Application
+# Stopwatch Web Application
 
-###Overview
+## Overview
+
 This project is a simple yet functional stopwatch web application developed as part of my web development internship at Digital Bheem. The application allows users to start, stop, and reset a timer, providing a user-friendly interface and smooth functionality.
 
-### Features
-Start/Stop Functionality: Easily start and stop the stopwatch with a single click.
-Reset Timer: Reset the timer back to zero with a dedicated reset button.
-Responsive Design: The application is designed to work seamlessly across different screen sizes and devices.
-Cross-Browser Compatibility: Ensures smooth performance on all major web browsers.
-### Technologies Used
-HTML: For structuring the web page.
-CSS: For styling the application and making it visually appealing.
-JavaScript: For implementing the core stopwatch functionality.
+## Features
+
+- **Start/Stop Functionality**: Easily start and stop the stopwatch with a single click.
+- **Reset Timer**: Reset the timer back to zero with a dedicated reset button.
+- **Responsive Design**: The application is designed to work seamlessly across different screen sizes and devices.
+- **Cross-Browser Compatibility**: Ensures smooth performance on all major web browsers.
+
+## Technologies Used
+
+- **HTML**: For structuring the web page.
+- **CSS**: For styling the application and making it visually appealing.
+- **JavaScript**: For implementing the core stopwatch functionality.
+
+## Installation
+
+To run this stopwatch web application locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/stopwatch-web-application.git
+
