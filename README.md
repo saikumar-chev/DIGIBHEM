@@ -24,6 +24,4 @@ This project is a simple yet functional stopwatch web application developed as p
 - **Stop**: Click the "**Stop**" button to pause the timer.
 - **Reset**: Click the "**Reset**" button to reset the timer to zero.
 
-├── index.html         # The main HTML file
-├── styles.css         # The CSS file for styling
-└── script.js          # The JavaScript file for stopwatch functionality
+![image](https://github.com/user-attachments/assets/ad79a0a9-97f6-4c6b-b80c-94252479b9e9)
