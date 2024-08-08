@@ -9,6 +9,7 @@ This project is a simple yet functional stopwatch web application developed as p
 
 - **Start/Stop Functionality**: Easily start and stop the stopwatch with a single click.
 - **Reset Timer**: Reset the timer back to zero with a dedicated reset button.
+- **Stop**: Click the "**Stop**" button to pause the timer.
 - **Responsive Design**: The application is designed to work seamlessly across different screen sizes and devices.
 - **Cross-Browser Compatibility**: Ensures smooth performance on all major web browsers.
 
@@ -22,6 +23,7 @@ This project is a simple yet functional stopwatch web application developed as p
 
 - **Start**: Click the "**Start**" button to begin the stopwatch.
 - **Stop**: Click the "**Stop**" button to pause the timer.
+- **Lap**: Click the "**Lap**" button to displays the current time.
 - **Reset**: Click the "**Reset**" button to reset the timer to zero.
 
 ![image](https://github.com/user-attachments/assets/ad79a0a9-97f6-4c6b-b80c-94252479b9e9)
